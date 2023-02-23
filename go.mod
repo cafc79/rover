@@ -19,5 +19,5 @@ require (
 	github.com/hashicorp/hcl/v2 v2.0.0 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/zclconf/go-cty v1.8.4 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/text v0.3.8 // indirect
 )
